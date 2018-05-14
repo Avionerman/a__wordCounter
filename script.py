@@ -4,8 +4,8 @@ import time
 import sys
 
 
-def simple(x):
-    filename = x
+def simple(x_file):
+    filename = x_file
 
     di = dict()
     total = dict()
