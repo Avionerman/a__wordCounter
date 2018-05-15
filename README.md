@@ -15,3 +15,5 @@ Target: to make easier the life of a Big-Data Analyst
 Program.Lang: Python3.6+
 
 Packages: os, sys, time, decimal
+
+Please note! Do not hesitate to contact me in any case using the following address: papadopoulos.v.dimitris@gmail.com
